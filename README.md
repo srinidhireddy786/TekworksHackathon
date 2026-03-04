@@ -68,8 +68,12 @@ Plotly, Matplotlib
 tekworks hackathon/
 │
 ├── data_generator.py       # Script to generate synthetic railway data
+
 ├── app.py                  # Main Streamlit dashboard application
+
 ├── requirements.txt        # Python dependencies
+
 ├── README.md               # Project documentation
+
 └── railway_data.csv        # Generated dataset (created after running generator)
 
