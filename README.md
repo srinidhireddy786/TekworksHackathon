@@ -52,12 +52,16 @@ Visual representation of platform usage intensity
 
 **Frontend**
 Streamlit (Python)
+
 **Data Processing**
 Pandas, NumPy
+
 **Machine Learning**
 Scikit-Learn (Random Forest)
+
 **Visualization**
 Plotly, Matplotlib
+
 **Data Storage**: CSV (Synthetic Dataset)
 
 **Project Structure**
