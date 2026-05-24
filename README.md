@@ -4,7 +4,7 @@
 > *Optimizing Railway Resources with AI-Powered Demand Prediction*
 
 ---
-
+[![Live Demo](https://shields.io)](https://tekworkshackathon-svj82pz2iefup5ueiry5cz.streamlit.app/)
 ## 📋 Project Overview
 
 The **Smart Railway Resource Planning System** is a data-driven web application designed to help railway planners make smarter decisions about resource allocation. By leveraging historical and operational data, the system predicts passenger demand, identifies overcrowding risks, and recommends optimal train and coach allocations.
